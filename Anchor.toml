@@ -12,7 +12,7 @@ crypto_solana_project = "EPHVNcmB2vuipqQzqs92uMdSoB8CwzLsKj98T1sFc5tm"
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "localnet"
+cluster = "http://127.0.0.1:8899"
 wallet = "~/.config/solana/id.json"
 
 [scripts]
